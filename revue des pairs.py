@@ -23,4 +23,4 @@ def termes(fraction1, fraction2):
 
 # Exercice 1, Partie 3:
 
-#Affichez vos résultats sous forme de fraction et sous forme d'un float.
+#Affichez vos résultats sous forme de fraction et sous forme d'un float. 
